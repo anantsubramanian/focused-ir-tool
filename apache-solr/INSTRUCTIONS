@@ -1,0 +1,5 @@
+1. Copy the schema.xml file:
+		From 3.X to APACHE_SOLR_FOLDER/example/solr/conf folder in case of Solr version 3.x
+		From 4.X to APACHE_SOLR_FOLDER/example/solr/COLLECTION_NAME/conf folder in case of Solr version 4.x
+
+Use APACHE_SOLR_FOLDER/example/start.jar as the Solr JAR file when requested by the app.

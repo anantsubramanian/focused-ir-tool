@@ -1,0 +1,7 @@
+1. Copy the build.xml file to the APACHE_NUTCH_1.x/src/plugin folder.
+2. Copy the parse-keyword folder to the APACHE_NUTCH_1.x/src/plugin folder.
+3. Compile Apache Nutch using ant.
+4. Copy the nutch-site.xml and regex-urlfilter.txt files to the APACHE_NUTCH_1.x/runtime/local/conf folder.
+5. Create a folder urls in the APACHE_NUTCH_1.x/runtime/local folder.
+
+Use APACHE_NUTCH_1.x as your Nutch folder when asked by the app.
